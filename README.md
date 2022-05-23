@@ -8,3 +8,15 @@ Here is the complete schematic of the Robot-
 
 
 ![unnamed](https://user-images.githubusercontent.com/58396532/169748497-7d01308b-3796-4114-bb6d-ee498049e03f.png)
+
+
+
+Here is the Front view of the Robot-
+
+
+
+
+
+
+
+![unnamed](https://user-images.githubusercontent.com/58396532/169748890-7487950d-d2e6-4234-be6e-fab58044e830.jpeg)
