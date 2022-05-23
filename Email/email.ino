@@ -1,12 +1,12 @@
 #include <Arduino.h>
 #if defined(ESP32)
-  #include <WiFi.h>
+#include <WiFi.h>
 #elif defined(ESP8266)
-  #include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h>
 #endif
 #include <ESP_Mail_Client.h>
 
-#define WIFI_SSID "CJ"
+#define WIFI_SSID "MG"
 #define WIFI_PASSWORD "12345678"
 
 #define SMTP_HOST "smtp.gmail.com"
